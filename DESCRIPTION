@@ -1,0 +1,18 @@
+Package: Hot100Qualities
+Type: Package
+Title: Hot 100 Track Qualities
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Iris", "Robedeaux",
+      email = "irisrobedeaux@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Data and documentation about tracks on the Billboard Hot 100 and qualities extracted from Spotify API.
+License: N/A
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5)
+RoxygenNote: 7.3.2
